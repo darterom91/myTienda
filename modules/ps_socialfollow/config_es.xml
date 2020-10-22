@@ -2,7 +2,7 @@
 <module>
     <name>ps_socialfollow</name>
     <displayName><![CDATA[Enlaces de seguimiento a trav&eacute;s de las redes sociales]]></displayName>
-    <version><![CDATA[2.0.0]]></version>
+    <version><![CDATA[2.1.0]]></version>
     <description><![CDATA[Permite a&ntilde;adir informaci&oacute;n en las redes sociales de tu marca.]]></description>
     <author><![CDATA[PrestaShop]]></author>
     <tab><![CDATA[]]></tab>
